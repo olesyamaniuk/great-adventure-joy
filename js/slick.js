@@ -7,7 +7,7 @@ $(function () {
     autoplay: true,
     autoplaySpeed: 3500,
     speed: 1000,
-    dots: false,
+    dots: true,
     centerMode: false,
     cssEase: 'linear',
     prevArrow: '.gallery__list-left',
